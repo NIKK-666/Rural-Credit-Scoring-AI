@@ -1,13 +1,11 @@
 
-```
-
 **Jan-Dhan-Drishti** is an AI-powered alternative credit scoring platform designed for India's 100M+ "thin-file" rural borrowers. By fusing **UPI transaction behavior** with **satellite-derived crop health (NDVI)**, we provide NBFCs with a high-fidelity risk profile that traditional bureaus miss.
 
 
 
 ---
 
-## ✨ Key Features
+##✨ Key Features
 * 🌾 **Agri-Vision:** Real-time crop health monitoring using Amazon SageMaker Geospatial.
 * 💳 **Cash-flow Underwriting:** Analysis of UPI velocity and utility payment patterns.
 * 🗣️ **Bharat-First:** Voice-activated application process in 22 regional languages (Bhashini).
@@ -15,26 +13,26 @@
 
 ---
 
-## 🏗️ Architecture
+##🏗️ Architecture
 The system is built on a **Serverless-First** AWS stack for global scalability and zero idle costs.
 
 
 
-* **Compute:** AWS Lambda & Step Functions (Agentic Workflows)
-* **ML Engine:** Amazon SageMaker (Hybrid XGBoost + Vision Transformer)
-* **Intelligence:** Amazon Bedrock (Llama 3.1) for multilingual NLP
-* **Data Lake:** Amazon S3 & Amazon Aurora
+**Compute:** AWS Lambda & Step Functions (Agentic Workflows)
+**ML Engine:** Amazon SageMaker (Hybrid XGBoost + Vision Transformer)
+**Intelligence:** Amazon Bedrock (Llama 3.1) for multilingual NLP
+**Data Lake:** Amazon S3 & Amazon Aurora
 
 ---
 
 ## 🚀 Quick Start (Hackathon Mode)
 
-### Prerequisites
+## Prerequisites
 * AWS Account with `AdministratorAccess`
 * Python 3.10+
 * AWS CLI configured (`ap-south-1`)
 
-### Installation
+## Installation
 1. **Clone the repo:**
    ```bash
    git clone 
