@@ -1,9 +1,5 @@
 
-```markdown
-# 🛰️ Jan-Dhan-Drishti: Rural Credit Scoring AI
-[![AWS Certified](https://img.shields.io/badge/AWS-2026_Ready-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Impact](https://img.shields.io/badge/Focus-Financial_Inclusion-blue)](#)
+```
 
 **Jan-Dhan-Drishti** is an AI-powered alternative credit scoring platform designed for India's 100M+ "thin-file" rural borrowers. By fusing **UPI transaction behavior** with **satellite-derived crop health (NDVI)**, we provide NBFCs with a high-fidelity risk profile that traditional bureaus miss.
 
@@ -41,7 +37,7 @@ The system is built on a **Serverless-First** AWS stack for global scalability a
 ### Installation
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/your-username/Jan-Dhan-Drishti.git](https://github.com/your-username/Jan-Dhan-Drishti.git)
+   git clone 
    cd Jan-Dhan-Drishti
 
 ```
