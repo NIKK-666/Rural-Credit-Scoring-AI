@@ -1,5 +1,5 @@
 
-**Jan-Dhan-Drishti** is an AI-powered alternative credit scoring platform designed for India's 100M+ "thin-file" rural borrowers. By fusing **UPI transaction behavior** with **satellite-derived crop health (NDVI)**, we provide NBFCs with a high-fidelity risk profile that traditional bureaus miss.
+* **Jan-Dhan-Drishti** is an AI-powered alternative credit scoring platform designed for India's 100M+ "thin-file" rural borrowers. By fusing **UPI transaction behavior** with **satellite-derived crop health (NDVI)**, we provide NBFCs with a high-fidelity risk profile that traditional bureaus miss.
 
 
 
