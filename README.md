@@ -5,7 +5,7 @@
 
 ---
 
-##✨ Key Features
+## ✨ Key Features
 * 🌾 **Agri-Vision:** Real-time crop health monitoring using Amazon SageMaker Geospatial.
 * 💳 **Cash-flow Underwriting:** Analysis of UPI velocity and utility payment patterns.
 * 🗣️ **Bharat-First:** Voice-activated application process in 22 regional languages (Bhashini).
@@ -13,7 +13,7 @@
 
 ---
 
-##🏗️ Architecture
+## 🏗️ Architecture
 The system is built on a **Serverless-First** AWS stack for global scalability and zero idle costs.
 
 
@@ -33,25 +33,22 @@ The system is built on a **Serverless-First** AWS stack for global scalability a
 * AWS CLI configured (`ap-south-1`)
 
 ## Installation
-1. **Clone the repo:**
-   ```bash
+1.**Clone the repo:**
+```bash
    git clone 
    cd Jan-Dhan-Drishti
-
 ```
 
-2. **Deploy the Backend (CDK):**
+2.**Deploy the Backend (CDK):**
 ```bash
 cd infrastructure
 npm install && cdk deploy
-
 ```
 
 
-3. **Install ML Dependencies:**
+3.**Install ML Dependencies:**
 ```bash
 pip install -r requirements.txt
-
 ```
 
 
