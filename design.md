@@ -102,3 +102,6 @@ To comply with RBI digital lending guidelines, we use **SageMaker Clarify** to:
 * **Language:** Integration with **Bhashini** ensures the platform is accessible in 22 regional languages.
 
 ---
+<img width="1536" height="1024" alt="Feb 15, 2026, 11_57_42 PM" src="https://github.com/user-attachments/assets/58488ad7-ae2b-4f93-b7c7-9945b7990329" />
+
+
