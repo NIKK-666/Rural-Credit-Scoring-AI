@@ -92,7 +92,7 @@ streamlit run app.py
 
 | Role | Responsibility |
 | :--- | :--- |
-| **Nikhil Barman (AI/AWS)** | Bedrock/Groq Prompting, Satellite Data (GEE), Scoring Logic. | @NIKK-666
+| **Nikhil Barman (AI/Logic)** | Bedrock/Groq Prompting, Satellite Data (GEE), Scoring Logic. | @NIKK-666
 | **Harsh Srivastava (UI/Integrator)** | Bhashini REST Integration, Twilio Webhooks, Streamlit UI. | @Harsh Srivastava
 
 ---
