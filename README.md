@@ -1,4 +1,4 @@
-This `README.md` is designed to be the "source of truth" for your hackathon project. It clearly defines the roles for **Developer A** and **Developer B**, the tech stack, and the installation steps specifically for a Windows environment.
+
 
 ---
 
