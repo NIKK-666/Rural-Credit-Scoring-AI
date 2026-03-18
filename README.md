@@ -97,10 +97,3 @@ streamlit run app.py
 
 ---
 
-## 📜 License
-This project is built for the **2026 Agri-Fintech Hackathon**. Permission is granted for educational and prototype use only.
-
----
-
-### **Next Step**
-Would you like me to generate the **`requirements.txt`** file content or the **`scoring_logic.py`** to finish your Day 1 setup?
